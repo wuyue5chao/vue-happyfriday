@@ -1,6 +1,7 @@
-# vue-demo
+# vue-happyfriday
 
 > A Vue.js project
+use vue, vuerouter, vuex, axios
 
 ## Build Setup
 
