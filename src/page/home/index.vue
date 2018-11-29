@@ -44,7 +44,7 @@ export default {
 	},	
 	methods: {
 		menuFixed: function(){
-			this.scroll = document.body.scrollTop || document.documentElement.scrollTop
+			this.scroll = document.documentElement.scrollTop || document.body.scrollTop
 			// console.log(this.scroll)
 			if(this.scroll > 50){
 				this.showMenu = true

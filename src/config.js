@@ -8,6 +8,6 @@ const VERSION = '1.1.0'
 // 接口地址
 const apiUrl = ''
 
-module.exports = {
+export default {
 	apiUrl
 }
